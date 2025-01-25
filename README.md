@@ -3,7 +3,7 @@
 **WattWise** is an innovative energy monitoring and management solution designed to empower users in Sri Lanka with real-time insights into their electricity usage. By addressing high electricity bills, carbon footprints, and inefficient energy utilization, WattWise provides an affordable, user-friendly platform to promote mindful consumption and sustainability.
 
 ---
-
+![WattWise IoT Device](./Images/Capture1.PNG)
 ## 🔑 Key Features
 
 - **Live Updates**: Real-time appliance-wise and overall energy consumption updates.
@@ -21,7 +21,7 @@
   - Earn rewards for reducing energy consumption.  
 
 ---
-
+![Project Overview](./Images/Capture2.PNG)
 ## 🌍 Impact
 
 - Promotes **mindful electricity consumption habits**.  
@@ -52,7 +52,7 @@
    - Leverages machine learning to predict future bills, detect anomalies, and suggest optimizations.  
 
 ---
-
+![Current Results](./Images/Capture.PNG)
 
 ## 💰 Business Model
 
